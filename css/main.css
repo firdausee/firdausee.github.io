@@ -1,0 +1,56 @@
+
+.header{
+   background-image: url('css/index.jpeg');
+   position:absolute;
+   width:100%;
+   height:auto;
+
+}
+.container h1{
+ text-align:center;
+ color:white;
+ font-family:'Montserrat',cursive;
+ margin-right:px;
+ margin-top:100px;
+ float:left;
+ font-size:35px;
+ position:relative;
+}
+.container{
+ /*position: absolute;*/
+ background-image: url('index.jpg');
+ height:400px;
+ width:1493px;
+ margin-top:auto;
+}
+.container1{
+background-color:#C0C0C0;
+height:600px;
+width:auto;
+margin-top: 50px;
+margin-right:-15px;
+
+}
+#index{
+ text-align:center;
+ margin-left:45px;
+ margin-top:25px;
+ color:white;
+}
+.container1 img{
+ position: relative;
+ width:auto;
+ padding-right:20px;
+}
+
+}
+container2.aboutmes{
+text-align: center;
+ margin-left:-100px;
+ font-family:Arial Black Gadget, sans-serif;
+ font-size:45px;
+}
+.container2 h1{
+ text-align: center;
+ margin-left:100px;
+}
